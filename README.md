@@ -66,3 +66,24 @@ Core Fundamentals of MongoDB
     $ npm run test 
 ---------------
     Mocha starts -> Empty Database -> test #1 -> Empty Database -> test #2 -> Empty Database
+----------------
+    beforeEach -> Start long running process -> Call done -> tests continue running 
+---------------
+    Userfind(criteria) -- find all the users that match the given criteria, Returns an array 
+    UserfindOne(criteria) --  Find the first user that matches the criteria. Return  a single record.
+----------------
+Automating Tests with Nodemon 
+
+----------------
+Finding Particular Records 
+
+---------------
+The Many Ways to Remove Records 
+    Model Class:
+        remove
+        findOneAndRemove 
+        findByIdAndRemove 
+    Model Instance:
+        remove 
+
+
