@@ -1,4 +1,6 @@
-Software:
+#Software:
+
+```
     1. Balsamiq Mockups3 
     2. brew : Package manager  -- 
     3. install node (JS on the deskop) 
@@ -21,6 +23,7 @@ Software:
         --(Studio 3T) fully featured IDE for MongoDB professionals
     6. Vim + JS 
         -- 安装Vim JS 插件
+```
 -----------------
 A Quick ES6 Refresher 
     Learning some JavaScript 
